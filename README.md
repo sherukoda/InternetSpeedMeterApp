@@ -119,6 +119,3 @@ If you encounter issues or have questions:
 - 🐛 [Report a Bug](../../issues/new?labels=bug)
 - 💡 [Request a Feature](../../issues/new?labels=enhancement)
 
----
-
-**Made with ❤️ for macOS** | [Report Issue](../../issues) | [Request Feature](../../issues/new?labels=enhancement)
