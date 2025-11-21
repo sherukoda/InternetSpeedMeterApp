@@ -118,7 +118,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter issues or have questions:
 - 🐛 [Report a Bug](../../issues/new?labels=bug)
 - 💡 [Request a Feature](../../issues/new?labels=enhancement)
-- 💬 [Start a Discussion](../../discussions)
 
 ---
 
